@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# oct08-a
+#
+
+projectname: oct08-a
+vendorid: com.mycompany
+mainmodule: com.mycompany.oct08a
